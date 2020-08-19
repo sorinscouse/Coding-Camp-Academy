@@ -1,7 +1,7 @@
 # Coding-Camp-Academy
 https://sorinscouse.github.io/Coding-Camp-Academy/
 
-This is **Coding Camp Academy**, a responsive website that offers information about programming, web develpment and web design courses. I created this website with HTML, CSS3, jQuery & Bootstrap. I used the following tools and libraries:
+This is **Coding Camp Academy,** a responsive website that offers information about programming, web develpment and web design courses. I created this website with HTML, CSS3, jQuery & Bootstrap. I used the following tools and libraries:
 
 * **jQuery, a JavaScript library** <br> 
 https://jquery.com/
